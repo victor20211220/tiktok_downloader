@@ -54,7 +54,7 @@ export default function Home() {
               <i className="fas fa-video"></i>
               {medias[1].extension}<br />({medias[1].formattedSize})
             </a>
-            <a href="https://tweakdoor.com/convert/wp-content/plugins/aio-video-downloader/download.php?source=tiktok&media=MQ==" className="btn btn-danger btn-sq btn-dl text-uppercase mx-1 my-1" target="_blank">
+            <a href="https://tweakdoor.com/convert/wp-content/plugins/aio-video-downloader/download.php?source=tiktok&media=Mg==" className="btn btn-danger btn-sq btn-dl text-uppercase mx-1 my-1" target="_blank">
               <strong>{medias[2].quality}</strong>
               <br />
               <i className="fas volume-up"></i>
